@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Unignore directories (necessary if you want to unignore files within them)
+!*/
+
+# Unignore specific files or directories
+!.gitignore
+!autoexec.cfg
+!smoke_practice.cfg
