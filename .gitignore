@@ -8,4 +8,6 @@
 !.gitignore
 !autoexec.cfg
 !smoke_practice.cfg
+!buy_binds.cfg
+!jumps.cfg
 !README.md
